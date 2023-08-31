@@ -14,4 +14,4 @@ Tried to clone the actual Excel and inculcate the complex functionalities.
 <li> Add Page, Rename Page, Delete Page.
 
 # Screenshot
-![](C:\Users\rudra\OneDrive\Pictures\Ms_Excel\Excel Clone.png)
+![](https://github.com/rudrasinghapps/MS-Excel-Clone/blob/main/Excel%20Clone.png)
